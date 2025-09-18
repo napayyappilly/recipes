@@ -1,4 +1,4 @@
-# Guacamole on the Main branch
+# Guacamole is good on every branch
 ## Ingredients
 * avocado - $ 2
 * lime - $ 0.50
